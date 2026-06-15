@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I’m currently enrolled in 2 university courses, B.Tech CSE (IoT) in VIT, Vellore and BS Data Science and Applications in IIT, Madras.<br>👨🏾‍💻 I’m currently learning full-stack development, API development, IoT, Machine Learning, and Deep Learning.<br>
+🏫 I’m enrolled in 2 university courses, B.Tech CSE (IoT) in VIT, Vellore and BS Data Science and Applications in IIT, Madras.<br>👨🏾‍💻 I’m learning full-stack development, API development, IoT, Machine Learning, and Deep Learning.<br>
 
 
 ## 🌐 Socials:
